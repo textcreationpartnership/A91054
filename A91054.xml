@@ -1,0 +1,368 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings, votes, resolves, and acts of the late half-quarter Parliament, called the Rump: as it was taken out of their own journal-books, and printed for the general satisfaction of the nation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91054</idno>
+            <idno type="STC">Wing P3628B</idno>
+            <idno type="STC">Thomason E1074_33</idno>
+            <idno type="EEBO-CITATION">99867358</idno>
+            <idno type="PROQUEST">99867358</idno>
+            <idno type="VID">119665</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119665)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 160:E1074[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings, votes, resolves, and acts of the late half-quarter Parliament, called the Rump: as it was taken out of their own journal-books, and printed for the general satisfaction of the nation.</title>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Thomason,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Annotation on Thomason copy: "March. 6. 1659.".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119665:1" rendition="simple:additions"/>
+            <p>THE PROCEEDINGS, Votes, Reſolves, AND ACTS Of the late Half-quarter <hi>Parliament,</hi> CALLED The RUMP: As it was taken out of their own Journal-Books, and Printed for the general Satisfaction of the <hi>NATION.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Thomaſon.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:119665:2"/>
+            <pb n="3" facs="tcp:119665:2"/>
+            <head>THE RUMPS JOURNAL, &amp;c.</head>
+            <div type="part">
+               <head>Thurſday, Jan. <hi>27.</hi>
+               </head>
+               <opener>ORDERED,</opener>
+               <p>THat the Members now met together, do ſit here as long as they live, in ſpight of the Peoples teeths; and that the Go<g ref="char:EOLhyphen"/>vernment of the Nation be entail'd up on their Heirs ſuc<g ref="char:EOLhyphen"/>ceſſively unto Eternity; and that this their Reſolution be forthwith confirmed by an Act of the Houſe.</p>
+               <p>Accordingly an <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct was brought in, and ordered to be ſpeedily in<g ref="char:EOLhyphen"/>groſſed; the tenor whereof was as followeth:</p>
+               <p>WHEREAS the Parliament have thought fit, for the good of them<g ref="char:EOLhyphen"/>ſelves, to keep the Government in their own hands as long as they live: And whereas well knowing how laudable a thing it is for Fathers to pro<g ref="char:EOLhyphen"/>vide for their Children, (ſeeing that the Ape hath a kindneſs for her own Whelps) that they may alwayes have cauſe to bleſs the tender care of their deceaſed Parents, we are alſo Reſolved to continue the ſaid Government to our Heirs and Aſſigns for ever; which intention of ours, there is no<g ref="char:EOLhyphen"/>thing but the Day of Judgement can hinder, for that, as we are informed, will put an end to the World within a ſmall period of years, and conſequent<g ref="char:EOLhyphen"/>ly deſtroy the reign of our Poſterity.</p>
+               <p>Be it therefore Enacted by this preſent Parliament, and by the Autho<g ref="char:EOLhyphen"/>thority thereof, That no perſon or perſons whatſoever, whether Red-coat or Red-coats, Blew-coat or Blew-coats, Cavalier or Cavaliers, or what<g ref="char:EOLhyphen"/>ever other Faction ſoever, that conceive themſelves agrieved by us, do attempt or endevour to moleſt, diſturb or hinder our ſitting during the whole term of ours and their natural lives; and that our Sons, and our Sons Sons do tyrannize over this Nation for ever and ever. And we do
+<pb n="4" facs="tcp:119665:3"/>further Enact and Declare, that the aforeſaid Day of Judgement is hereby diſanulled, aboliſhed, and ſtraitly forbid, as if it had never been intended; And all creatures both in heaven and earth, are required to take notice of this Act, and to give obedience thereto, upon penalty of our diſpl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſure, and the anger of our Poſterity, who we hope will be no better then our ſelves.</p>
+            </div>
+            <div type="part">
+               <head>Friday, January <hi>28.</hi>
+               </head>
+               <p>Reſolved upon the Queſtion, That Tyranny and Oppreſsion are not only lawful, but expedient for the Management of the publick Affairs; and that Juſtice Morality, Conſcience, and Priviledges of the People, are but meer airy notions, and deſtructive to the peace of the Commonwealth.</p>
+               <p>This day they alſo made an Act declaring what ſhould be Treaſon.</p>
+               <p>WHEREAS it concerns thoſe who are got into Authority, to look well about them for their own Security, and to be as ſubtile as heir ene<g ref="char:EOLhyphen"/>mies can be for heir hearts and bloods; And whereas we the Rump and Bumm of a wrongfully diſturbed Parliament, have taken upon us to ſuc<g ref="char:EOLhyphen"/>ceed the Thirty Tyrants of <hi>Athens,</hi> in the monſtre u<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſs of their Fame, And where is there are millions of people who care not a fort fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> us and would do all they could to deſtroy us, yet plead the Laws of the Land for their Contrivances againſt us, we have therefore though ſit to publiſh our Commandements, and to chalk out unto them what <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Treaſon againſt us, and what not, for that 'tis impoſsible for them to know unleſs, they be told; Be it therefore Enacted by this preſent <hi>Rump,</hi> and the An h<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ty hereof, That who every yieldeth not an exact Obedience unto us both in thought, word, and deed, ſhall be guilty of high Treaſon. Who ever pu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>teth not off his Hat, and maketh not three Congies to us as we pass through the Hall, ſhall be guilty of high Treaſon. Whoe ever talketh <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o us with his Hat on, and dares to reprehend us for any enormity which we ſhall commit, ſhall be guilty of high Treaſon. Who ever ſhall ſee a <hi>Rumper</hi> in bed with his wife, and is not patient and willing, and holdeth not his tongue, ſhall be guilty of high Treaſon. If a <hi>Rumper,</hi> being in the majeſty of his thoughts as high as <hi>Ahab,</hi> ſhall happen to covet the Vineyard of <hi>Naboth,</hi> and ſhall make de<g ref="char:EOLhyphen"/>mand thereof, and ſhall be refuſed, who ever ſhall make ſuch refuſal, ſhall be guilty of high Treaſon. Who ever ſhall demand any Debt or Debts due from a <hi>Rumper,</hi> be they more or leſs, ſhall be, and is hereby adjudged guilty of high Treaſon Laſtly, That Mr. <hi>Harrington</hi> ſhall be, and is here<g ref="char:EOLhyphen"/>by declared guilty of high Treaſon, for publiſhing the Myſteries of Go<g ref="char:EOLhyphen"/>vernment in a profane Coffee-houſe, and ſeeking to impoſe upon us his ſilly <hi>Oceana,</hi> as if we knew not our own intentions, and what ſort of Govern<g ref="char:EOLhyphen"/>ment was beſt for our turn better then he did.</p>
+               <p>
+                  <hi>Reſolved upon the Queſtion,</hi> That Mr. <hi>Scot</hi> ſhall, as ſoon as he is dead, go to heaven without let or moreſtation, notwithſtanding a certain place of Scripture which ſeems to intimate the contrary from the practice of his life.</p>
+               <pb n="5" facs="tcp:119665:3"/>
+               <p>
+                  <hi>Ordered,</hi> That Mr. <hi>Scot</hi> do print the Sermons of Mr. <hi>Roe,</hi> from the Co<g ref="char:EOLhyphen"/>pies which he hath writ in the <hi>Abby,</hi> and that the Stationer give him as much proportionably, as <hi>Adoniram</hi> had for the Aſſemblies Catechiſm.</p>
+               <p>
+                  <hi>Ordered,</hi> That though Mr. <hi>Scot,</hi> as he is Secretary of State, have liberty to dive into the ſecrets of mens hearts, that he do not ſo often dive into the ſecrets of womens bodies, as he us'd to do, leſt he fail the Secretary-ſhip ſooner then they are willing the Secretary-ſhip ſhould fail him.</p>
+            </div>
+            <div type="part">
+               <head>Saturday, January <hi>29.</hi>
+               </head>
+               <p>This day the Houſe agreed upon an Act, for putting an Excize upon Trap-ſticks and Whirligigs, in theſe following words:</p>
+               <p>WHEREAS we do perceive a very great diſ-affection in the Chil<g ref="char:EOLhyphen"/>dren and Boys of this Nation to our Government, by ſinging Ballads to our diſgrace, and calling us the <hi>Rump</hi> at every word; which hatred to us is grown ſo high, that though they can be able to ſpend many a braſs Far<g ref="char:EOLhyphen"/>thing and ſingle Penny upon Whirligigs and Trap-ſticks, for their own de<g ref="char:EOLhyphen"/>light, yet they are altogether unwilling to contribute the leaſt mi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e toward our crying neceſſities. That therefore we may be too cunning for them in their wicked intentions, and gain from them as well as from the reſt of the Nation, Be it Enacted and Ordained by this preſent Parliament, and the Authority thereof, That there be a New Excize laid upon the Inſtruments of their Paſtime; that is to ſay, Three farthings upon every Trap-ſtick that ſhall be ſold for a peny, and five farthings upon every Box Graſs-cat which is ſold for two pence; and one farthing for every dozen of Whirligigs that ſhall be ſold for a half peny: And it is further Ordained, That Mr. <hi>Leadſum</hi> the Informer be Collector of the ſeveral Sums ſo to be gathered, and that the ſaid Sums ſo collected ſhall be equally divided among the Members for their own private and particular uſes.</p>
+               <p>
+                  <hi>Reſolved upon the Queſtion,</hi> That the Apothegm of <hi>Trajan</hi> the Empe<g ref="char:EOLhyphen"/>ror, <hi>Dulcis odor lucri ex re qualibet,</hi> be writ in Letters of Gold, and placed over the Houſe door.</p>
+               <p>
+                  <hi>Ordered,</hi> That the famous Book, commonly called <hi>Aretines Poſtures,</hi> be bound up in Turky-leather, with gilded Leaves, and that it be preſented to Mr. <hi>Martin</hi> in the name of the Houſe, as an Acknowledgement of their Thanks to him for his many good ſervices.</p>
+               <p>
+                  <hi>Ordered,</hi> That he have a particular Diſpenſation for having two wives, becauſe it is not fit that there ſhould be any general Rule without ſome Ex<g ref="char:EOLhyphen"/>ceptions.</p>
+               <p>
+                  <hi>Ordered,</hi> That Mr. <hi>Dove</hi> be Brewer to the Navy, that he may not for<g ref="char:EOLhyphen"/>get his Calling, as Col. <hi>Pride</hi> was in the Protectors time.</p>
+            </div>
+            <div type="part">
+               <head>Monday, January <hi>30.</hi>
+               </head>
+               <p>
+                  <hi>Ordered,</hi> That there be another High Court of Juſtice erected with all convenient ſpeed, and that Sir <hi>Arthur Heſilrigg</hi> be Preſident thereof, and that it be committed to his diſcretion to pronounce what Iudgement he pleaſes, and that he have full power to execute it himſelf when he hath done.</p>
+               <p>
+                  <hi>Ordered,</hi> That there be a Day ſet apart for a private Faſting among the
+<pb n="6" facs="tcp:119665:4"/>Members, that they may fall upon the great Work of Devouring the Na<g ref="char:EOLhyphen"/>tion with the better ſtomachs.</p>
+               <p>This day ſeveral Officers received their Commiſſions, and among the reft Mr. <hi>Streater</hi> received his Commiſsion to be a Colonel of Foot, of the Regiment formerly belonging to the ſingle-ey'd Gentleman that gave command to ſhoot his brother Cobler.</p>
+               <p>
+                  <hi>Ordered,</hi> That the Lord <hi>Mounſon</hi> have a priviledge to wear a Back<g ref="char:EOLhyphen"/>piece, and Breaſt-plate, and a Pot, to ſecure his bones from the knocks of his Ladies Bed-ſtaff.</p>
+               <p>
+                  <hi>Ordered,</hi> That Mr. <hi>Syndercomb</hi> be canonized for a Saint, and that a Letter be forthwith ſent to the Great Turk, intreating him to perform that pious work.</p>
+               <p>
+                  <hi>Ordered,</hi> That the Walls of <hi>Sion</hi> ſhall be let alone, but that the Cities of <hi>Sodom</hi> and <hi>Gomorha</hi> ſhall be rebuilt, and the ſaid Lord <hi>Mounſon</hi> and Mr. <hi>Martin</hi> do ſee it performed accordingly.</p>
+               <p>
+                  <hi>Orderea this day,</hi> That Mr. <hi>Praiſe-God Barebone</hi> ſhall be Maſter of the Ceremonies, and that it be his care to convert all the Forein Embaſſadors that come over, and ſee them rebaptized before they have Audience.</p>
+            </div>
+            <div type="part">
+               <head>Tueſday, January <hi>31.</hi>
+               </head>
+               <p>The Houſe were upon Qualifications, and they Ordered that none ſhould bear any Office in the Commonwealth, that had the leaſt pick in the world againſt Perjury, and could not ſwallow any Oath which they ſhould com<g ref="char:EOLhyphen"/>mand them to take, with as much eaſe as the Whale ſwallowed <hi>Jonas.</hi> Se<g ref="char:EOLhyphen"/>condly, That they ſhould be Sectaries of the lateſt Edition, men indeed de<g ref="char:EOLhyphen"/>ſpiſing any <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eity, but loving Covetouſneis with all their hearts. Thirdly, That they ſhould have the treachery of Informers, the tongues of Slande<g ref="char:EOLhyphen"/>rers, the malice of Toads, the venom of Baſilisks, the cruelty of <hi>Nero,</hi> and the tyranny of <hi>Pharaoh.</hi>
+               </p>
+               <p>
+                  <hi>Ordered,</hi> That <hi>London</hi> be ſet on fire, and that there be another great City built in ſome other part of the Nation, and that all the free-born People of the Land be compelled to make bricks, and <hi>gather ſtraw</hi> for them<g ref="char:EOLhyphen"/>ſelves, for the carrying on of the great Work, that they may appear to be moſt truly gods people, that is to ſay, in affliction, and not after the <hi>cu<g ref="char:EOLhyphen"/>ſtom</hi> of the <hi>Heathen</hi> under the Government of a King.</p>
+               <p>
+                  <hi>Ordered,</hi> That the Protectors Grave be broke open, and that the Plate of Gold which is upon his breaſt be taken off, and that the Members do throw moſt at three throws who ſhall have it.</p>
+               <p>
+                  <hi>Reſolved upon the Queſtion,</hi> That Mr. <hi>Vavaſour Powel,</hi> Mr. <hi>Feak,</hi> and Mr. <hi>Rogers</hi> be ſent to the top of <hi>Penmenmaur,</hi> the higheſt hill in all <hi>Wales,</hi> there to pray upon their bare knees, till God hear them, and give them an anſwer.</p>
+               <p>It was alſo Ordered, becauſe they intended to hang a good number of their enemies, That Mr. <hi>Peters</hi> be ſent for to accompany them to the Gal<g ref="char:EOLhyphen"/>lows, as he did in the beginning.</p>
+               <p>
+                  <hi>Ordered,</hi> That my Lord <hi>Craven</hi> ſhall never have any juſtice done him, nor any other perſon that hath been wronged ſince their Fellow-members were ſecluded.</p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:119665:4"/>
+               <head>Wedneſday, February <hi>1.</hi>
+               </head>
+               <p>
+                  <hi>Ordered,</hi> That Mr. <hi>Prynne</hi> do ſay or write what he pleaſes, becauſe the Houſe is not able to give any anſwer to the Law and Reaſon which he pro<g ref="char:EOLhyphen"/>pounds.</p>
+               <p>
+                  <hi>Ordered,</hi> That <hi>Wimbleton</hi>-Houſe be ſequeſtred, becauſe the ſummer draws on, and Sir <hi>Arthur</hi> wants a fine Seat near the Town.</p>
+               <p>
+                  <hi>Ordered likewiſe,</hi> That he have the Protectors gilt Coach, and that he ride out of Town every Afternoon to take the Air, as the Protector was wont to do.</p>
+               <p>
+                  <hi>Ordered,</hi> That Colonel <hi>Martin</hi> do not pay one farthing to his Landlord in <hi>Ax-yard,</hi> but that he do forthwith Arreſt him for detaining his Clothes for Rent, and that he juſtifie this act by the Authority of the Houſe.</p>
+               <p>
+                  <hi>Ordered,</hi> That Sir <hi>Arthur Heſilriggs</hi> Daughter go no more with her Fa<g ref="char:EOLhyphen"/>thers Clerk to eat a Six-peny-minc'd Pye in an open Cooks ſhop, or if ſhe do, that ſhe go up ſtairs, and not ſit in one of the ſmall Rooms where none but Porters drink, leſt ſhe bring a great ſcandal upon her Family.</p>
+               <p>This day came a Letter from the General of the <hi>Coſſacks,</hi> humbly deſi<g ref="char:EOLhyphen"/>ring the Houſe to ſend him twelve ſtone of Brisket beef, and ſeven great Cabbages, with two Hogsheads of <hi>Northdown Ale,</hi> for that his wife long'd to taſte ſome of the Engliſh Dyet.</p>
+               <p>The Houſe was reſolv'd into a Grand Committee about this ungent Af<g ref="char:EOLhyphen"/>fair, they ſate till ten of the clock at night, and adjourned till the next day.</p>
+            </div>
+            <div type="part">
+               <head>Thurſday, February <hi>2.</hi>
+               </head>
+               <p>This day they reſumed the ſaid Debate again, and being put to the Vote, it was carried in the Affirmative onely by two Voices.</p>
+               <p>
+                  <hi>Ordered,</hi> That the Earl of <hi>Pembroke</hi> does very well in going to Miſtreſs <hi>Creſwels</hi> in Moor-fields, to mortifie his pamper'd fleſh; and that it is no ſin for a Quaker to go a whoring after ſtrange women, provided he do not go a whoring after ſtrange Gods.</p>
+               <p>
+                  <hi>Reſolved upon the Queſtion,</hi> That the ſaid Earl is not wiſe enough to make himſelf the Head of the Quaking Faction, let him do what he can: And that there be a Committee to examine his Lordſhip whither he went, when he ſtay'd away from his houſe a whole formight together, to wait up<g ref="char:EOLhyphen"/>on two Draggle-tayl Bitches, that made him believe they were <hi>two Kings daughters all glorious within.</hi>
+               </p>
+               <p>
+                  <hi>Ordered,</hi> That Mr. <hi>Nevil,</hi> becauſe he will play at <hi>Picquet</hi> with no body but us, nor ſo much as venture upon any hands but ours, have a <hi>Sizeiſme</hi> out of Sir <hi>George Booths</hi> Eſtate, as the reward of his Conſtancy.</p>
+               <p>The Houſe having heard the report, How that Pope <hi>Gregory</hi> was ſtruck with a perperual pain in his ſtomach and feet by an Angel, becauſe he com<g ref="char:EOLhyphen"/>pelled God by his Prayers to deliver <hi>Trajan</hi> out of hell, and transfer him into Heaven, they were ſtrick with a panick fear; and whereas they had intended to have deſir'd of God to do as much for the Lord <hi>Bradſhaw</hi> as he did for <hi>Trajan,</hi> they reſolved upon the conſideration of the event, even to let him alone where he is, and not to have him ſtirr'd by any means.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:119665:5"/>
+               <head>Friday, February <hi>3.</hi>
+               </head>
+               <p>Ordered this day the firſt thing they did, That all that would not take the Oath of Abjuration and the Engagement, ſhould be Bond-ſlaves.</p>
+               <p>
+                  <hi>Ordered,</hi> That thoſe Members that will keep whores, may not be expel<g ref="char:EOLhyphen"/>led for that, becauſe it ought to be preſum'd before hand, that thoſe Mem<g ref="char:EOLhyphen"/>bers cannot be without'um.</p>
+               <p>
+                  <hi>Ordered,</hi> That there be a publick Toleration of Bawdy-houſes, upon con<g ref="char:EOLhyphen"/>dition that they pay a yearly Stipend to the <hi>Members,</hi> there being no reaſon why the Houſe may not, as well as St. <hi>Peter,</hi> be beholding to the Stews for part of their Revenue.</p>
+               <p>
+                  <hi>Ordered,</hi> That there be ſpeedily levyed upon the Nation more pounds, then there be Indulgences in the Lateran Church, which Pope <hi>Boniface</hi> ſaid a great while ago, that onely God could number.</p>
+            </div>
+            <div type="part">
+               <head>Saturday, February <hi>4.</hi>
+               </head>
+               <p>This day ſome few of the Anabaptiſts children, whoſe Fathers had own<g ref="char:EOLhyphen"/>ed their Authority, put up a Petition to the Houſe, making heavy moan by reaſon of the Excize which was laid upon their Play-things, but the Houſe took it ſo hainouſly, that they voted the Petition ſcandalous, ſeditious, and to the prejudice of the Members; and that the Boys ſhould be publickly whipt upon the Scaffold upon Tower-hill; and Mr. <hi>Du-gard</hi> was order'd to ſlaſh their buttocks ſoundly.</p>
+               <p>
+                  <hi>Ordered,</hi> That Fryar <hi>Rookwood</hi> do live ſecurely under our protection, not<g ref="char:EOLhyphen"/>withſtanding that he he is both a Coyner and a Felon, by reaſon that he is an excellent Informer, and hath done us very good ſervice in betraying ſun<g ref="char:EOLhyphen"/>dry of our enemies.</p>
+            </div>
+            <div type="part">
+               <head>Monday, February <hi>6.</hi>
+               </head>
+               <p>This day there was a Petition preſented to the Houſe, in the name of ſun<g ref="char:EOLhyphen"/>dry Welſh Farmers, which was as followeth:</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="petition">
+                           <head>
+                              <hi>To the reeght Honoraple,</hi> &amp;c.</head>
+                           <head type="sub">The Humble Pettiſhon of ſundry Shentlemen of <hi>Walles:</hi>
+                           </head>
+                           <opener>
+                              <salute>
+                                 <hi>Doth moſt humply ſhoh to your Worſip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>,</hi>
+                              </salute>
+                           </opener>
+                           <p>
+                              <hi>THat whereas there were ſundry fery creat Repells in our famous Coun<g ref="char:EOLhyphen"/>tries of</hi> Walles, <hi>who did riſe hup in repellion againſt your Worſips, and would have killed and ſlain all your cood Worſips, as we are fery well aple to teſtifie unto your Worſips, once more py Cods crace in Parlament aſſem<g ref="char:EOLhyphen"/>pled; And whereas the Ring leater of theſe paſe Repells was a fery creat Shentleman of</hi> Walles, <hi>a man of a fery creat power, and of a fery creat E<g ref="char:EOLhyphen"/>ſtate, py name Sir</hi> Hugh Middleton, <hi>and whereas we ſo underſtand that you are coing apout to ſell all his fery creat means,</hi>
+                           </p>
+                           <p>May it therfore pleſs a your cood Worſips, if you will ſell ſuch cood penyworths as your cood Worſips formerly have done, as tere is no toubt, putr your cood Worſips muſt be forced to do, to lett your poor Petiſhners have a cood pargain of your cood Worſips, as ſoon as another, for py Cods plutree nells wee pee Shentlemen of <hi>Walles,</hi> and will pay your cood Worſips fery honeſtly, and pe<g ref="char:EOLhyphen"/>ſides that we ſhall pe efer pound to pray, <hi>&amp;c.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <pb n="9" facs="tcp:119665:5"/>
+               <p>The Petition being read, the Petitioners were called in, and received the thanks of the Houſe, which the Speaker did give them accordingly.</p>
+               <p>
+                  <hi>Ordered,</hi> That a Letter be ſent down to Colonel <hi>Overton,</hi> to know upon what grounds he dares keep <hi>Hull</hi> for Jeſus Chriſt, while they are the Supream Authority of the Nation?</p>
+               <p>They alſo reſolved upon the form of an Oath, which was this:
+<q>YOu ſhall Swear to be faithful and conſtant to Us, our Heirs, Execu<g ref="char:EOLhyphen"/>tors, and Aſsigns, from generation to generation, as long as the world endures, and longer, if poſsible may be. That you ſhall obey us in every thing, whether lawful or unlawful. And that you ſet your Con<g ref="char:EOLhyphen"/>ſciences adrift in a Bowl-diſh in the middle of the <hi>Thames,</hi> where you may never ſee them more, when you enter intoour ſervice; without which burthen you can never be fit and qualified for our employments. That you ſhall ſubſcribe with you own blood, as the devil bindeth Witches when he makes them enter into Covenants.</q>
+               </p>
+            </div>
+            <div type="part">
+               <head>Tueſday, February <hi>7.</hi>
+               </head>
+               <p>
+                  <hi>Ordered,</hi> That Mr. <hi>S.</hi> and <hi>L. R.</hi> be ſent to conſult with the moſt knowing Phyſicians in that particular, which is the beſt and moſt ſecret way of removing the Lord General out of the way, in caſe he do not an<g ref="char:EOLhyphen"/>ſwer their expectations.</p>
+               <p>
+                  <hi>Reſolved upon the Queſtion,</hi> That he is no true Politician who cannot tell how to remove any Obſtacle or Obſtruction that lyes in the way of his Advancement; and that thoſe that follow the practices of <hi>Caeſar Borgia</hi> cannot erre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+               <p>This day the Miniſters did ſhew to the Houſe ſundry and weighty Reaſons why they ſhould not demoliſh the Univerſities, or take away tythes.</p>
+               <p>Hereupon the Houſe made anſwer, That neither the Univerſities nor tythes ſhould beamedled withal as yet; for they did not finde them<g ref="char:EOLhyphen"/>ſelves able to go about a Work ſo generally diſ-ſatisfactory to the Na<g ref="char:EOLhyphen"/>tion: However in proceſs of time they hoped they ſhould be able to get thoſe large Revenues alſo into their Clutches, which were a very great ſcandal and eye-ſore to many weak and diſtreſſed Brethren, and indeed that it was a ſhame that thoſe things that were founded in a time of Superſtition, ſhould not be taken away in a time of Reformation.</p>
+               <p>They alſo told the ſaid Miniſters, that who ever would aſsiſt them in this ſo pious a Work, ſhould have very good ſhares, which ſhould en<g ref="char:EOLhyphen"/>able them to live without the help of thoſe Idolatrous Revenues.</p>
+               <p>
+                  <hi>Reſolved,</hi> that the Houſe do beſtow one thouſand pound <hi>per</hi> week upon themſelves, out of the Publique-treaſury of the Nation, becauſe the wants of the Soldiery are very heavy, and the neceſſities of the people extraordinary great.</p>
+               <p>
+                  <hi>Reſolved upon the queſtion,</hi> that Mr. <hi>C. H.</hi> is as good a Gentleman as any is in <hi>England,</hi> now he hath got an Eſtate [though it be known he was originally a Link-boy] And that the Pedigree which he hired
+<pb n="10" facs="tcp:119665:6"/>
+                  <hi>Wil. Lilly</hi> to make him, whereby he derived himſelf from <hi>John Holland</hi> Earl of <hi>Exeter,</hi> be as Authentick as any the moſt ancient Pedigree in the Heralds Office.</p>
+            </div>
+            <div type="part">
+               <head>Wedneſday, February <hi>8.</hi>
+               </head>
+               <p>The Houſe having this day little to do, reſolved that a Letter of thanks ſhould be ſent to the two Gyants, <hi>Dramuſiand</hi> and <hi>Tramuſtant,</hi> and alſo to <hi>Clerimon</hi> Knight of the <hi>Green tree,</hi> for their great kindneſs to <hi>Don Palmerin,</hi> the renowned Engliſh Champion. And they further Ordered, that three <hi>London</hi> Prentices ſhould be made choice of to go with the Letter.</p>
+            </div>
+            <div type="part">
+               <head>Thurſday, February <hi>9.</hi>
+               </head>
+               <p>
+                  <hi>Ordered,</hi> that <hi>H. Martin</hi> be rebuked for forbidding the people at the Seſſions in <hi>Berkſhire</hi> to ſtand bare, and to do Fealty and Homage to their Lords, being a tenent of a dangerous Conſequence, and deſtru<g ref="char:EOLhyphen"/>ctive to the Intereſt of the now intended Commonwealth.</p>
+               <p>
+                  <hi>Reſolved upon the queſtion,</hi> that the ſpirit which ſanctifies every par<g ref="char:EOLhyphen"/>ticular Member of this Houſe, doth in every particular Member blow where it liſteth, ſometimes this way, ſometimes that way, and there<g ref="char:EOLhyphen"/>fore they can make no profeſsion of any certain Doctrine or Diſcipline, becauſe they know not which way the ſpirit will blow their light <hi>Wea<g ref="char:EOLhyphen"/>ther cock</hi> Hearts</p>
+               <p>
+                  <hi>Reſolved upon the queſtion,</hi> that if a man be queſtioned for any Crime, though his Judges have neither competent witneſſes, nor teſti<g ref="char:EOLhyphen"/>monies to evidence his guiltineſs, yet that if they think in their con<g ref="char:EOLhyphen"/>ſciences he be guilty, they may condemn him out of the private teſti<g ref="char:EOLhyphen"/>mony of their own conſciences.</p>
+            </div>
+            <div type="part">
+               <head>Friday, February <hi>10.</hi>
+               </head>
+               <p>This day there was a certain perſon had Audience in the Houſe, who preſented himſelf to be an Agent from Cardinal <hi>Mazarine.</hi> He was brought into the Houſe with the Mace going before him, on his left hand went the Maſter of the Ceremonies, on his right hand the Secre<g ref="char:EOLhyphen"/>tary of State; But when all came to all, he appeared to be a French Dancing Maſter, as you ſhall hear by his Speech.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="speech">
+                           <opener>
+                              <salute>Monſieur de man in de Shear,</salute>
+                           </opener>
+                           <p>BEgar me no ſpeak a ſi bon Engliſs comme vous, but me make a de ſhift for to ſpeak a de leetle, pour make a you ave a de ſome under<g ref="char:EOLhyphen"/>ſtanding of mine affaires. Begar Monſieur, mine affaires be de plus important affaires in all de var<g ref="char:EOLhyphen"/>le, begar and dat is muſh, you'l ſay. Begar me play ode leetle Fidele, me teash a to daunce, o ſo
+<pb n="11" facs="tcp:119665:6"/>rare, ſo rare; begar you no ave a ſo brave fellow in all <hi>England</hi> beſides me ſelfe. Begar your autre Maiſtres dey teash make legg like a de Bear, or like a de Hoarſe; begar all mee Scolars be all de compagnie for a de Prince, au de Princeſſe: But begar dit is noting to dat I kenow, for begar me can teash all de people to daunce after mine peepe. Begar if you will donne moy l'Argent, me give you dis peepe, and me teash a you to make a de people daunce after your peepe, begar the peo<g ref="char:EOLhyphen"/>ple all follow your peepe, comme de tree au de ſtone follow aftre de Poete <hi>Orfu's.</hi> Par mafoy n'aucun autre man in de varle offre ſo greate ad<g ref="char:EOLhyphen"/>vantage to any Prince in de varle. Begar if you make a de refuſer, mee go preſentemant to Mon<g ref="char:EOLhyphen"/>ſieur de King of o de <hi>Swedes,</hi> au mee go to Mon<g ref="char:EOLhyphen"/>ſieur de King de <hi>Danemark,</hi> mee varrant you me live a dere in de plus great fame in de varle.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>The Houſe having heard his Speech, Ordered that the buſineſs ſhould be referr'd to a Committee to conſider thereof But the impa<g ref="char:EOLhyphen"/>tient French-man thinking himſelf ſcorn'd, becauſe he did not receive a preſent Anſwer, went away in a great fume, telling them, <hi>They ſhould make a Whiſtle of his Breech, before they ſhould have his Pipe, ſince they put ſuch a contempt upon his worth.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Saturday, February <hi>11.</hi>
+               </head>
+               <p>
+                  <hi>Ordered,</hi> that Mr. <hi>Harringtons</hi> Tenent of <hi>Rotation</hi> is of dangerous conſequence, and deſtructive to the Intereſt of this Houſe, and that one of the Serjeants men be ſent to him, to deſire him not to trouble him<g ref="char:EOLhyphen"/>ſelf with thoſe things which do ſo little concern him.</p>
+               <p>Upon this a Petition was preſented from the Coffee-man, humbly re<g ref="char:EOLhyphen"/>queſting the Houſe to let him alone for his own benefit, for that he had been at a very great charge to rail in the Room, and for making a great table: Whereupon the Houſe taking it into debate, Ordered that the Rotators ſhould continue till he was ſatisfied for his rails and table, and no longer.</p>
+               <p>
+                  <hi>Ordered,</hi> that <hi>Politicus</hi> do continue in his Office of contriving falſe In<g ref="char:EOLhyphen"/>telligence, becauſe no perſon of ability els will undertake the employment</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
